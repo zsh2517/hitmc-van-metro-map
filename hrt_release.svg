@@ -18,6 +18,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <style>
+    @import url('https://fonts.font.im/css?family=Sofia');
+    @import url('https://fonts.font.im/css?family=Noto%20Sans%20SC');
+    @import url('https://fonts.font.im/css?family=Noto%20Serif%20SC');
     @font-face {
       font-family: "Minecraft";
       src:
@@ -25,7 +28,8 @@
         url("assets/MinecraftBold-nMK1.otf"),
         url("assets/MinecraftItalic-R8Mo.otf"),
 	url("assets/MinecraftBoldItalic-1y1e.otf"),
-    }    @font-face {
+    }
+    @font-face {
       font-family: "DIN";
       src:
         url("assets/DIN.ttf"),
