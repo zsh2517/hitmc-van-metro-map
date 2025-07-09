@@ -13,13 +13,6 @@
   <defs
      id="defs1">
     <pattern
-       xlink:href="#pattern58"
-       preserveAspectRatio="xMidYMid"
-       id="pattern1"
-       patternTransform="scale(0.1)"
-       x="0"
-       y="0" />
-    <pattern
        xlink:href="#pattern31"
        preserveAspectRatio="xMidYMid"
        id="pattern87"
@@ -1794,16 +1787,12 @@
        d="m 685.05875,337.3066 v 2 H 587.0584 v -2 z"
        id="path30-20-1-1" />
     <path
-       style="display:inline;fill:url(#pattern1);fill-opacity:1;stroke:none;stroke-width:2.47863;stroke-miterlimit:8;paint-order:markers fill stroke"
-       d="m 75.67325,335.30682 v 2 H 21.638069 v -2 z"
-       id="path30-20-1-1-8" />
-    <path
        style="fill:#e4002b;fill-opacity:1;stroke-width:3.87517;stroke-miterlimit:8;paint-order:markers fill stroke"
        d="m 254.7826,361.22578 v 2 H 122.7028 v -2 z"
        id="path30-2" />
     <path
-       style="fill:#e4002b;fill-opacity:1;stroke-width:2.15985;stroke-miterlimit:8;paint-order:markers fill stroke"
-       d="m 116.70335,335.30682 v 2 h -41.0301 v -2 z"
+       style="fill:#e4002b;fill-opacity:1;stroke-width:3.29496;stroke-miterlimit:8;paint-order:markers fill stroke"
+       d="m 116.70335,335.30682 v 2 H 21.213605 v -2 z"
        id="path30-2-4" />
     <path
        style="fill:#e4002b;fill-opacity:1;stroke-width:2.00312;stroke-miterlimit:8;paint-order:markers fill stroke"
@@ -3572,32 +3561,22 @@
          y="338.88879">校徽台北</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC Bold';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;white-space:pre;inline-size:0;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       x="48.336182"
-       y="333.85773"
-       id="text15-7-6-2-4-3-4-6-1-8-6-3-14"><tspan
-         id="tspan15-5-1-7-3-7-2-3-2-1-5-4-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';fill:#808080;fill-opacity:1;stroke:none;stroke-width:1"
-         x="48.336182"
-         y="333.85773">海西</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC Bold';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC Bold';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        x="31.494701"
        y="341.55121"
        id="text15-7-6-2-4-3-4-6-1-8-6-3-14-2"><tspan
          id="tspan15-5-1-7-3-7-2-3-2-1-5-4-2-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';fill:#808080;fill-opacity:1;stroke:none;stroke-width:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="31.494701"
          y="341.55121">洪湖围</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC Bold';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC Bold';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        x="17.60634"
        y="333.78549"
        id="text15-7-6-2-4-3-4-6-1-8-6-3-14-2-6"><tspan
          id="tspan15-5-1-7-3-7-2-3-2-1-5-4-2-3-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';fill:#808080;fill-opacity:1;stroke:none;stroke-width:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="17.60634"
          y="333.78549">洪湖村</tspan></text>
     <text
@@ -5264,13 +5243,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       x="346.92804"
-       y="345.74661"
+       x="353.1604"
+       y="334.71997"
        id="text15-7-6-6-1-5"><tspan
          id="tspan15-5-1-5-5-8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-         x="346.92804"
-         y="345.74661">鼎湾</tspan></text>
+         x="353.1604"
+         y="334.71997">鼎湾</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -5393,6 +5372,17 @@
          y="332.10565">郁林</tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';letter-spacing:0px;white-space:pre;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       x="61.683487"
+       y="322.09644"
+       id="text15-7-8-7-7-7-17"
+       transform="translate(-13.265812,11.703872)"><tspan
+         id="tspan15-5-7-8-8-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="61.683487"
+         y="322.09644">海西</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        x="158.69284"
        y="297.24606"
@@ -5461,6 +5451,17 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="438.48233"
          y="326.05396">向日湾</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';letter-spacing:0px;white-space:pre;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       x="355.30179"
+       y="366.70627"
+       id="text15-7-8-7-7-7-4-2"
+       transform="translate(8.4542049,-23.31946)"><tspan
+         id="tspan15-5-7-8-8-7-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="355.30179"
+         y="366.70627">鼎江口</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Light';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -5908,6 +5909,13 @@
        height="1.2"
        x="362.50229"
        y="319.74423" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect16-0-7-4-3-5-7-7-0-39-6"
+       width="1.2"
+       height="1.2"
+       x="368.55112"
+       y="337.64331" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect16-0-7-4-3-5-7-7-0-39-8"
@@ -6769,7 +6777,7 @@
     </g>
     <g
        id="g1"
-       transform="matrix(0.75,0,0,0.75,-70.268921,163.91762)">
+       transform="matrix(0.75,0,0,0.75,-126.64681,159.40978)">
       <rect
          style="fill:#e4002b;fill-opacity:1;stroke-width:0.678398;stroke-miterlimit:8;paint-order:markers fill stroke"
          id="rect1"
@@ -7258,7 +7266,7 @@
     </g>
     <g
        id="g2-1-0"
-       transform="matrix(0.75,0,0,0.75,200.82468,167.86024)">
+       transform="matrix(0.75,0,0,0.75,207.05701,146.23293)">
       <rect
          style="fill:#dd8800;fill-opacity:1;stroke-width:0.678398;stroke-miterlimit:8;paint-order:markers fill stroke"
          id="rect1-8-4-9"
@@ -7925,28 +7933,6 @@
          y="245.77931"
          id="text1-83-4"><tspan
            id="tspan1-81-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DIN Medium';-inkscape-font-specification:'DIN Medium, ';fill:#ffffff;stroke-width:2"
-           x="197.7368"
-           y="245.77931">1</tspan></text>
-    </g>
-    <g
-       id="g2-2-1-9"
-       transform="matrix(0.75,0,0,0.75,-126.64681,144.38622)"
-       style="display:inline;opacity:0.6">
-      <rect
-         style="fill:#e4002b;fill-opacity:1;stroke-width:0.678398;stroke-miterlimit:8;paint-order:markers fill stroke"
-         id="rect1-7-1-3"
-         width="8"
-         height="8"
-         x="195.77304"
-         y="238.76518" />
-      <text
-         xml:space="preserve"
-         style="font-size:8.46667px;font-family:'Noto Serif SC';-inkscape-font-specification:'Noto Serif SC';letter-spacing:0px;fill:#e4002b;fill-opacity:1;stroke-width:2;stroke-miterlimit:8;paint-order:markers fill stroke"
-         x="197.7368"
-         y="245.77931"
-         id="text1-83-4-8"><tspan
-           id="tspan1-81-3-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DIN Medium';-inkscape-font-specification:'DIN Medium, ';fill:#ffffff;stroke-width:2"
            x="197.7368"
            y="245.77931">1</tspan></text>
@@ -8923,6 +8909,15 @@
        id="image1-0-2-3"
        x="180.09984"
        y="253.00995" />
+    <image
+       width="6"
+       height="6.1875"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAYAAADnodDVAAAABHNCSVQICAgIfAhkiAAAAbdJREFU&#10;eJztmrFKA0EQhvck3IESETtRsbCKoL1gZ53CFwhYBhR8AEsF7ezsFPICFlYKasBKsLEUtZBgK4Io&#10;JAixspHZW3az8UN2vnK4zH38DLebZTPj4HJvo+965i/p9nKx/tV9E+v13aOsrN/I4Er/Gw2AFqDR&#10;AGgBmkrshravdJH3ovS395kI6pf8BGgAtACNBkAL0ERfBWx78iIfjf2qX/3DVpnkJ0ADoAVoNABa&#10;gMa5Cvju7ceqw/3a27B5ukh+AjQAWoBGA6AFaIL/Cwz75Mf3vaEkPwEaAC1AowHQAjTBq8B26zim&#10;x8DsNNaDfpf8BGgAtACNBkAL0DhXAdve/vbhVaxnh5Ni/fRlzUPLmPr0iVjvN+X3Xu1vevX/IfkJ&#10;0ABoARoNgBagKb1FaYwxB41V8abo/Oyc+HylkO/q3D/e+XiZpYWaWP94/xTrT51nsb7VutCbomVo&#10;ALQAjQZAC9BEvyPUbl+L9amZca8+Z+c3Yn1ledHbqYzkJ0ADoAVoNABagCb6KmD7Stv26r59YpP8&#10;BGgAtACNBkAL0DhPhGJhO1my4TrJiUXyE6AB0AI0GgAtQPMNQMlEWs5oCYgAAAAASUVORK5CYII=&#10;"
+       id="image1-0-2-3-8"
+       x="20.182972"
+       y="323.27261"
+       style="display:inline" />
     <image
        width="6"
        height="6.1875"
